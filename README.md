@@ -1,2 +1,3 @@
-# Digital-Clock
-Digital Clock by using HTML CSS JS 
+# Digital-Clock-using-Javascript
+
+# Shaik Sharif
